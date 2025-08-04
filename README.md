@@ -8,11 +8,11 @@ Each project in this repository is structured with clean code, insightful analys
 
 ## 📌 Projects
 
-### 1. [Netflix Data Science Analysis](./Netflix-Data-Science-Analysis)
+### 1. [Netflix Data Science Analysis](https://github.com/ShivamMahto2105/Data-Science-Projects/tree/main/1%20.%20Netflix)
 **Description:**  
 An exploratory data analysis (EDA) project on Netflix content data. This includes preprocessing, feature engineering, visual analysis, and insights about content popularity, genres, and ratings.
 
-➡️ **[View Project Here](./Netflix-Data-Science-Analysis)**
+➡️ **[View Project Here](https://github.com/ShivamMahto2105/Data-Science-Projects/tree/main/1%20.%20Netflix)**
 
 ---
 

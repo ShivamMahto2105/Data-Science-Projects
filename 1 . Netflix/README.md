@@ -6,9 +6,9 @@ An exploratory data analysis project on Netflix's content. This project analyzes
 
 ## 🔗 Quick Links
 
-- 🔙 [Back to All Data Science Projects](../README.md)
-- 📄 [View this Project on GitHub](https://github.com/your-username/Data-Science-Projects/tree/main/Netflix-Data-Science-Analysis)
-- 📥 [Download the Dataset (mymoviedb.csv)](https://your-link-to-dataset.com/mymoviedb.csv)
+- 🔙 [Back to All Data Science Projects](https://github.com/ShivamMahto2105/Data-Science-Projects)
+- 📄 [View this Project on GitHub](https://github.com/ShivamMahto2105/Data-Science-Projects/blob/main/1%20.%20Netflix/NETFLIX.ipynb)
+- 📥 [Download the Dataset (mymoviedb.csv)](https://github.com/ShivamMahto2105/Data-Science-Projects/blob/main/1%20.%20Netflix/mymoviedb.csv)
 
 ---
 
