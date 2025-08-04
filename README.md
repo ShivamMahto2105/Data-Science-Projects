@@ -1,0 +1,50 @@
+# 🧠 Data Science Projects
+
+Welcome to my Data Science portfolio! This repository is a collection of hands-on projects where I apply various data analysis, machine learning, and visualization techniques using Python and its data ecosystem.
+
+Each project in this repository is structured with clean code, insightful analysis, and clear documentation to reflect practical applications of data science principles.
+
+---
+
+## 📌 Projects
+
+### 1. [Netflix Data Science Analysis](./Netflix-Data-Science-Analysis)
+**Description:**  
+An exploratory data analysis (EDA) project on Netflix content data. This includes preprocessing, feature engineering, visual analysis, and insights about content popularity, genres, and ratings.
+
+➡️ **[View Project Here](./Netflix-Data-Science-Analysis)**
+
+---
+
+## 📁 Project Structure
+
+Each folder in this repository typically contains:
+- A Jupyter Notebook or Python scripts
+- Dataset(s) or data sources
+- A `README.md` with project-specific documentation
+- Plots or reports generated during analysis
+
+---
+
+## 🛠️ Tools & Libraries Used
+
+- Python (pandas, numpy, matplotlib, seaborn, etc.)
+- Jupyter Notebook
+- Git & GitHub for version control
+
+---
+
+## 🚀 Coming Soon
+
+More projects will be added regularly, including:
+- Machine learning models
+- Web scraping & APIs
+- Dashboards with Streamlit or Plotly
+- NLP and time-series analysis
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to explore, fork, or give feedback. Contributions are welcome!
+
