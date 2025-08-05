@@ -16,10 +16,10 @@ An exploratory data analysis (EDA) project on Netflix content data. This include
 
 ---
 
-### 2. [ICC T20 World Cup 2024 Analysis](https://github.com/ShivamMahto2105/Data-Science-Projects/tree/main/2.%20ICC-T20-WorldCup-2024)
+### 2. [ICC T20 World Cup 2024 Analysis](https://github.com/ShivamMahto2105/Data-Science-Projects/tree/main/2.%20ICC%20Men%20T20)
 **Description:**  
 A data science project analyzing match data from the 2024 ICC T20 World Cup. This project includes match-level statistics, player performance metrics, and venue analysis. It concludes with key insights like top performers, prize money trends, and hosting highlights.  
-➡️ **[View Project Here](https://github.com/ShivamMahto2105/Data-Science-Projects/tree/main/2.%20ICC-T20-WorldCup-2024)**
+➡️ **[View Project Here](https://github.com/ShivamMahto2105/Data-Science-Projects/tree/main/2.%20ICC%20Men%20T20)**
 
 ---
 

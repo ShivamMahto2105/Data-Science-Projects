@@ -7,8 +7,8 @@ An exploratory data analysis project based on the ICC T20 World Cup 2024. This p
 ## 🔗 Quick Links
 
 - 🔙 [Back to All Data Science Projects](https://github.com/ShivamMahto2105/Data-Science-Projects)
-- 📄 [View this Project on GitHub](https://github.com/ShivamMahto2105/Data-Science-Projects/blob/main/2.%20ICC-T20-WorldCup-2024/ICC_T20_World_Cup_2024.ipynb)
-- 📥 [Download the Dataset (icc_t20_wc_2024.csv)](https://github.com/ShivamMahto2105/Data-Science-Projects/blob/main/2.%20ICC-T20-WorldCup-2024/icc_t20_wc_2024.csv)
+- 📄 [View this Project on GitHub](https://github.com/ShivamMahto2105/Data-Science-Projects/blob/main/2.%20ICC%20Men%20T20/ICC%20MEN%20T20.pdf)
+- 📥 [Download the Dataset (icc_t20_wc_2024.csv)](https://github.com/ShivamMahto2105/Data-Science-Projects/blob/main/2.%20ICC%20Men%20T20/ICC%20Mens%20T20%20Worldcup.csv)
 
 ---
 
